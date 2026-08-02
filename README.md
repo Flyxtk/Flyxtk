@@ -1,16 +1,34 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Flyxtk 👋</h1>
+<p align="center">
+  A developer who codes whatever I need. I enjoy building small but useful projects.
+</p>
 
-<!--
-**Flyxtk/Flyxtk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 📊 GitHub Stats
+<table align="center">
+  <tr>
+    <td valign="top">
+      <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Flyxtk&theme=tokyonight&hide_border=true" alt="GitHub Streak" /><br/>
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=Flyxtk&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+    </td>
+    <td valign="top">
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Flyxtk&theme=tokyonight&hide_border=true&layout=pie" alt="Most Used Languages" />
+    </td>
+  </tr>
+</table>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Flyxtk/Flyxtk/output/github-snake-dark.svg" alt="snake animation" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌐 Social Media
+<p align="center">
+  <a href="https://www.instagram.com/mertsahin_215/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.threads.com/@mertsahin_215" target="_blank">
+    <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads" />
+  </a>
+</p>
